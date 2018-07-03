@@ -9,20 +9,20 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class HelloHandler extends AbstractHandler {
+public class Handler_Hello extends AbstractHandler {
 
     final String greeting;
     final String body;
 
-    public HelloHandler() {
+    public Handler_Hello() {
         this("Hello World!");
     }
 
-    public HelloHandler(String greeting) {
+    public Handler_Hello(String greeting) {
         this(greeting, null);
     }
 
-    public HelloHandler(String greeting, String body) {
+    public Handler_Hello(String greeting, String body) {
         this.greeting = greeting;
         this.body = body;
     }

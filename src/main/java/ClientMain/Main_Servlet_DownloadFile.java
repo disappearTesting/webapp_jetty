@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-public class Main_SimpleServlet {
+public class Main_Servlet_DownloadFile {
     public static void main(String[] args) throws Exception {
         Server server = new Server();
 
@@ -23,7 +23,7 @@ public class Main_SimpleServlet {
 
         ServletHandler servletHandler = new ServletHandler();
         server.setHandler(servletHandler);
-        servletHandler.addServletWithMapping(SimpleServlet.class, "/*");
+        servletHandler.addServletWithMapping(SimpleServlet.class, "/downloadFile");
 
         server.start();
         server.join();
