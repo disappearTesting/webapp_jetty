@@ -23,7 +23,7 @@ public class Main_SimpleServlet {
 
         ServletHandler servletHandler = new ServletHandler();
         server.setHandler(servletHandler);
-        servletHandler.addServletWithMapping(SimpleServlet.class, "/*");
+        servletHandler.addServletWithMapping(SimpleServlet.class, "/test");
 
         server.start();
         server.join();
