@@ -1,6 +1,6 @@
 package ClientMain;
 
-import Handlers.GetResourceHandler;
+import Handlers.Handler_GetResource;
 import org.eclipse.jetty.server.Handler;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.DefaultHandler;
@@ -18,7 +18,7 @@ public class Main_FileServer {
 
         // Add the ResourceHandler to the server.
         HandlerList handlers = new HandlerList();
-        handlers.setHandlers(new Handler[]{new GetResourceHandler(resourceHandler, filename).getResourceHandler(), new DefaultHandler()});
+        handlers.setHandlers(new Handler[]{new Handler_GetResource(resourceHandler, filename).getResourceHandler(), new DefaultHandler()});
         server.setHandler(handlers);
 
         // Start and join, the server thread will join with the current thread.
