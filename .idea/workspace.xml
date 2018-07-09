@@ -4,6 +4,14 @@
     <list default="true" id="e0e0f676-a8f4-4f45-baf3-ef5ab686fe28" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_SimpleServlet$SimpleServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_SimpleServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/GetResourceHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/HelloHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SimplestServer/SimplestServer.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,20 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="Connector_Simple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="2" selection-end-column="4" />
+            <state relative-caret-position="198">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jetty-web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jetty-web.xml">
+      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="468">
+              <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,24 +65,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_Servlet_DownloadFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -123,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_SimpleServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
         <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
       </list>
     </option>
@@ -157,7 +151,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-1881" />
     <option name="y" value="135" />
     <option name="width" value="1856" />
@@ -169,9 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +203,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Connectors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Handlers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
@@ -232,6 +240,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,12 +260,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main_SimpleServlet">
+  <component name="RunManager" selected="Application.Main_Servlet_Simple">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="Main_FileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientMain.Main_FileServer" />
+      <module name="webapp_jetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientMain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main_Servlet_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientMain.Main_Servlet_Simple" />
       <module name="webapp_jetty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -414,9 +435,11 @@
     <list>
       <item itemvalue="Application.Main_FileServer" />
       <item itemvalue="Application.Main_SimpleServlet" />
+      <item itemvalue="Application.Main_Servlet_Simple" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_Servlet_Simple" />
         <item itemvalue="Application.Main_SimpleServlet" />
         <item itemvalue="Application.Main_FileServer" />
       </list>
@@ -451,16 +474,16 @@
       <workItem from="1530533035659" duration="1201000" />
       <workItem from="1530614057014" duration="4722000" />
       <workItem from="1530711197495" duration="1175000" />
-      <workItem from="1530786134566" duration="543000" />
+      <workItem from="1530786134566" duration="3180000" />
+      <workItem from="1530882216051" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46654000" />
+    <option name="totallyTimeSpent" value="49906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1881" y="135" width="1856" height="1032" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1881" y="135" width="1856" height="1032" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -475,7 +498,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49778515" weight="0.3621444" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20708749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20930232" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -483,7 +506,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32932165" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951945" />
@@ -501,9 +524,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientEndpoint/ClientSocket.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/ClientMain.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/TestSocket.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientEndpoint/ClientSocket.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/ClientMain.java" />
@@ -592,16 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.4.11.v20180605/jetty-servlet-9.4.11.v20180605.jar!/org/eclipse/jetty/servlet/ServletHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17205">
@@ -617,16 +633,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_SimpleServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/Handler_Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -644,10 +650,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605.jar!/org/eclipse/jetty/server/Server.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="468">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
