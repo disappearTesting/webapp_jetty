@@ -1,3 +1,6 @@
-C:\Users\hookie\IdeaProjects\jettywebsocket_project\src\main\java\ServerEndpoint\TestSocket.java
-C:\Users\hookie\IdeaProjects\jettywebsocket_project\src\main\java\ClientEndpoint\ClientSocket.java
-C:\Users\hookie\IdeaProjects\jettywebsocket_project\src\main\java\ClientMain\ClientMain.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\ClientMain\Main_OneHandler.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\Handlers\HelloHandler.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\ClientMain\Main_FileServer.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\SimplestServer\SimplestServer.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\ClientMain\Main_OneConnector.java
+C:\Users\Makarov_K\IdeaProjects\webapp_jetty\src\main\java\Handlers\GetResourceHandler.java

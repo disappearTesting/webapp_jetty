@@ -9,6 +9,7 @@ import java.io.IOException;
 public class Servlet_Simple extends HttpServlet {
 
     private ListStorageService listStorageService;
+
     public Servlet_Simple(ListStorageService service) {
         this.listStorageService = service;
     }
@@ -34,26 +35,6 @@ public class Servlet_Simple extends HttpServlet {
         if(bodyList != null) {
 
         }
-    }
-
-    @Override
-    protected void doPut(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doPut(req, resp);
-    }
-
-    @Override
-    protected void doDelete(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doDelete(req, resp);
-    }
-
-    @Override
-    protected void doOptions(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doOptions(req, resp);
-    }
-
-    @Override
-    protected void doTrace(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doTrace(req, resp);
     }
 
     @Override

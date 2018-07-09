@@ -9,8 +9,8 @@ public class Connector_Simple {
     private final long idleTimeout;
     ServerConnector connector;
 
-    public Connector_Simple(ServerConnector serverConnector, String host, int port) {
-        this(serverConnector, host, port, 0);
+    public Connector_Simple(ServerConnector connector, String host, int port) {
+        this(connector, host, port, 0);
     }
 
     public Connector_Simple(ServerConnector connector, String host, int port, long idleTimeout) {
