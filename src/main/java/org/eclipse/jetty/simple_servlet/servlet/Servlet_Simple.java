@@ -1,4 +1,6 @@
-package Servlets;
+package org.eclipse.jetty.simple_servlet.servlet;
+
+import org.eclipse.jetty.simple_servlet.service.ListStorageService;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
