@@ -1,7 +1,9 @@
 package ClientMain;
 
 import Connectors.Connector_Simple;
+import Servlets.ListServlet;
 import Servlets.Servlet_Simple;
+import Servlets.service.ListStorageService;
 import org.eclipse.jetty.server.Handler;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.ServerConnector;
@@ -14,8 +16,11 @@ public class Main_Servlet_Simple {
 
     public static void main(String[] args) throws Throwable {
 
+        ListStorageService storageService = ListStorageService.getInstance();
+
         ServletContextHandler contextHandler = new ServletContextHandler(ServletContextHandler.SESSIONS);
-        contextHandler.addServlet(new ServletHolder(new Servlet_Simple()), "/api/servlet");
+        contextHandler.addServlet(new ServletHolder(new Servlet_Simple()), "/api/servlet/simple");
+        contextHandler.addServlet(new ServletHolder(new ListServlet(storageService)), "/api/servlet/lists");
 
         ResourceHandler resourceHandler = new ResourceHandler();
         resourceHandler.setResourceBase("index.php");
