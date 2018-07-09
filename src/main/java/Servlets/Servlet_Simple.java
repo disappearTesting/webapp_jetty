@@ -8,6 +8,11 @@ import java.io.IOException;
 
 public class Servlet_Simple extends HttpServlet {
 
+    private ListStorageService listStorageService;
+    public Servlet_Simple(ListStorageService service) {
+        this.listStorageService = service;
+    }
+
     @Override
     public void init() throws ServletException {
         super.init();
@@ -25,7 +30,10 @@ public class Servlet_Simple extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doPost(req, resp);
+        String bodyList = req.getParameter("body");
+        if(bodyList != null) {
+
+        }
     }
 
     @Override
