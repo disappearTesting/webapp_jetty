@@ -1,0 +1,50 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+
+POST http://localhost:8080/api/servlet/lists?body=asdasdasdasdasdasd
+
+###
+
+// Позитивный кейс
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&advertising%5Fid=615c74605ca6e5be&vendor%5Fid=
+
+###
+
+// Негативный кейс. Отсутствует advertising, vendor
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&advertising%5Fid=615c74605ca6e5be&vendor%5Fid=615c74605ca6e5be
+
+###
+
+// Негативный кейс. Отсутствует vendor
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&vendor%5Fid=615c74605ca6e5be
+
+###
+
+// Негативный кейс. Изменен advertising, vendor, но одинаковые значения
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&advertising%5Fid=115c74605ca6e5be&vendor%5Fid=115c74605ca6e5be
+
+###
+
+// Негативный кейс. Изменен advertising, vendor, разные значения
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&advertising%5Fid=d15c74605ca6e5be&vendor%5Fid=n15c74605ca6e5be
+
+###
+
+// Негативный кейс. Изменен vendor
+GET https://mahjong-stage.smapps.net/gp/login?device%5Finfo=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0%3D&advertising%5Fid=615c74605ca6e5be&vendor%5Fid=615c74f05ca6e5be
+
+###
+
+// Негативный кейс. Отсутствует device
+GET https://mahjong-stage.smapps.net/gp/login?advertising%5Fid=615c74605ca6e5be&vendor%5Fid=615c74f05ca6e5be
+
+###
+
+// Негативный кейс. Отсутствует device
+GET https://mahjong-stage.smapps.net/gp/login?vendor%5Fid=615c74f05ca6e5ds
+
+###

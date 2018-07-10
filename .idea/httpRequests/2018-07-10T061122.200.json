@@ -1,0 +1,13 @@
+{
+  "response": {
+    "net_id": "gp",
+    "user_id": "38",
+    "https_mode": true,
+    "addition_data": "eyJhdXRoX2tleSI6ImQ2ODNmYTViZGRiZTFlZGI5ZDU2ZGJmZGY0NDE5YTkwIiwicmVzdF91cmwiOiJodHRwczpcL1wvbWFoam9uZy1zdGFnZS5zbWFwcHMubmV0XC9ncFwvcmVzdFwvIiwiY2RuX3VybCI6Imh0dHBzOlwvXC9tYWhqb25nLXN0YWdlLnNtYXBwcy5uZXRcL3N3ZlwvIiwibG9jYWxlIjpbeyJsYW5ndWFnZSI6InJ1IiwidXJsIjoiaHR0cHM6XC9cL2Nkbi5zbWFwcHMub3JnXC9tYWhqb25nXC9sYW5nXC9ydV8xNTMxMjA5NjAxLnhtbCIsImN1cnJlbnQiOmZhbHNlfSx7Imxhbmd1YWdlIjoiZW4iLCJ1cmwiOiJodHRwczpcL1wvY2RuLnNtYXBwcy5vcmdcL21haGpvbmdcL2xhbmdcL2VuXzE1MzExMjUyMzcueG1sIiwiY3VycmVudCI6dHJ1ZX0seyJsYW5ndWFnZSI6ImZyIiwidXJsIjoiaHR0cHM6XC9cL2Nkbi5zbWFwcHMub3JnXC9tYWhqb25nXC9sYW5nXC9mcl8xNTMxMTI3MjUxLnhtbCIsImN1cnJlbnQiOmZhbHNlfSx7Imxhbmd1YWdlIjoiZXMiLCJ1cmwiOiJodHRwczpcL1wvY2RuLnNtYXBwcy5vcmdcL21haGpvbmdcL2xhbmdcL2VzXzE1MzExMjcxMTAueG1sIiwiY3VycmVudCI6ZmFsc2V9LHsibGFuZ3VhZ2UiOiJkZSIsInVybCI6Imh0dHBzOlwvXC9jZG4uc21hcHBzLm9yZ1wvbWFoam9uZ1wvbGFuZ1wvZGVfMTUzMTE0OTEzOS54bWwiLCJjdXJyZW50IjpmYWxzZX1dLCJpc19kZXZlbG9wZXIiOnRydWV9"
+  },
+  "success": true,
+  "memory": 1237,
+  "serverInfo": {
+    "time": 1531235483
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "response": {
+    "error": true,
+    "message": "Not found vendor ID or advertising ID"
+  },
+  "success": true,
+  "memory": 844,
+  "serverInfo": {
+    "time": 1531235633
+  }
+}
