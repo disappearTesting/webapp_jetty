@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JettyWebSocket_Project_Test" target="1.5" />
-      <module name="webapp_jetty" target="1.5" />
+      <module name="webapp_jetty" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>

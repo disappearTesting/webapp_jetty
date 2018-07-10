@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e0f676-a8f4-4f45-baf3-ef5ab686fe28" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_SimpleServlet$SimpleServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_SimpleServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/GetResourceHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/HelloHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SimplestServer/SimplestServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneConnector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile$SimpleServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile$SimpleServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Connectors/Connector_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Connectors/Connector_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_GetResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Handlers/Handler_GetResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Handlers/Handler_Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servlets/Servlet_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp_jetty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp_jetty.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,32 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main_FileServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connector_Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+            <state relative-caret-position="396">
+              <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,13 +40,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main_OneConnector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
+      <file leaf-file-name="main_servlet_simple.http" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="162">
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#1700#1701#0" expanded="true" />
+                <element signature="e#1731#1732#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListStorageService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,9 +84,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
         <option value="Tag Library Descriptor" />
+        <option value="Class" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -117,7 +128,13 @@
         <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Handlers/main_servlet-simple.http" />
       </list>
     </option>
   </component>
@@ -151,7 +168,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-1881" />
     <option name="y" value="135" />
     <option name="width" value="1856" />
@@ -163,7 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,13 +256,44 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3625" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Servlets.service" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/api/servlet/lists" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="body" />
+                <option name="value" value="asdasdasdasdasdasd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -476,17 +523,19 @@
       <workItem from="1530711197495" duration="1175000" />
       <workItem from="1530786134566" duration="3180000" />
       <workItem from="1530882216051" duration="615000" />
+      <workItem from="1531116871002" duration="5105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49906000" />
+    <option name="totallyTimeSpent" value="55011000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1881" y="135" width="1856" height="1032" extended-state="1" />
+    <frame x="-1881" y="135" width="1856" height="1032" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32932165" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
@@ -498,7 +547,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49778515" weight="0.3621444" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20930232" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21151717" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -506,7 +555,6 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32951945" />
@@ -530,21 +578,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/TestSocket.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientEndpoint/ClientSocket.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/ClientMain.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/TestSocket.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/ChatEndpoint.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/Message.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/MessageEncoder.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/ChatEndpoint.java" />
@@ -657,10 +690,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -674,25 +727,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        <state relative-caret-position="396">
+          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>webapp_jetty</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3625" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.annotation:javax.annotation-api:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3625" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
