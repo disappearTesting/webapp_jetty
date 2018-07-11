@@ -1,1 +1,0 @@
-jar -jar webapp_jetty-1.0-SNAPSHOT.jar

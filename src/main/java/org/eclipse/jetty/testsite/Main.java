@@ -1,11 +1,10 @@
 package org.eclipse.jetty.testsite;
 
 import org.eclipse.jetty.server.*;
-import org.eclipse.jetty.server.handler.ContextHandler;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
 
-public class EventServer {
+public class Main {
     public static void main(String[] args) throws Throwable {
 
         Server server = new Server();

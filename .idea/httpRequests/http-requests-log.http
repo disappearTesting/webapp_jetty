@@ -1,3 +1,9 @@
+GET http://testsite.local:8080/rest/loginPage/index.php
+
+<> 2018-07-11T115618.404.html
+
+###
+
 GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=
 
 <> 2018-07-10T064219.200.json

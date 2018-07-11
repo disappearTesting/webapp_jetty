@@ -48,3 +48,7 @@ GET https://mahjong-stage.smapps.net/gp/login?advertising%5Fid=615c74605ca6e5be&
 GET https://mahjong-stage.smapps.net/gp/login?vendor%5Fid=615c74f05ca6e5ds
 
 ###
+
+GET http://testsite.local:8080/rest/loginPage/index.php
+
+###

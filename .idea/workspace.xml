@@ -2,48 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e0f676-a8f4-4f45-baf3-ef5ab686fe28" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-09T084649.201.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_servlet_simple.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/service/ListNoFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/EventServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static_resource/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Servlets/ListNoFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_servlet_simple.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Connector_Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Handlers/Handler_GetResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_GetResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Handlers/Handler_Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/ListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/Servlet_Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/security/DigestHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/service/ListExistException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/ListNoFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/service/ListStorageService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneConnector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile$SimpleServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Connectors/Connector_Simple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_GetResource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/ListServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servlets/Servlet_Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/security/DigestHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListExistException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListNoFoundException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Servlets/service/ListStorageService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/EventServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Connector_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Connector_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_GetResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_GetResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_FileServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_FileServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_OneConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_OneConnector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile$SimpleServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile$SimpleServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/ListNoFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/ListNoFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/security/DigestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/security/DigestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListExistException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListNoFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListNoFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListStorageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/ListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/ListServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/EventServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Servlet_Simple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp_jetty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp_jetty.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,11 +44,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
+      <file leaf-file-name="Servlet_Simple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler_Simple.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertBase64ToString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,29 +103,11 @@
       <file leaf-file-name="Handler_Hello.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_OneConnector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="36">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main_servlet_simple.http" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="12" column="273" selection-start-line="12" selection-start-column="273" selection-end-line="12" selection-end-column="273" />
             </state>
           </provider>
         </entry>
@@ -163,10 +170,12 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/EventServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" />
       </list>
     </option>
   </component>
@@ -200,11 +209,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1882" />
-    <option name="y" value="144" />
-    <option name="width" value="3071" />
-    <option name="height" value="1032" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1924" />
+    <option name="y" value="125" />
+    <option name="width" value="1928" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,7 +222,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -255,60 +263,34 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jetty" type="462c0819:PsiDirectoryNode" />
               <item name="testsite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testsite" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3625" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/rest/loginPage/index.php" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
@@ -732,9 +714,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EventServer">
+  <component name="RunManager" selected="Application.ConvertBase64ToString">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ConvertBase64ToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.ConvertBase64ToString" />
+      <module name="webapp_jetty" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="EventServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.EventServer" />
@@ -747,13 +740,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main_FileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClientMain.Main_FileServer" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.Main" />
       <module name="webapp_jetty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClientMain.*" />
+          <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -771,17 +764,6 @@
     </configuration>
     <configuration name="Main_Servlet_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClientMain.Main_Servlet_Simple" />
-      <module name="webapp_jetty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ClientMain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main_SimpleServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClientMain.Main_SimpleServlet" />
       <module name="webapp_jetty" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -927,19 +909,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Application.Main_FileServer" />
-      <item itemvalue="Application.Main_SimpleServlet" />
       <item itemvalue="Application.Main_Servlet_Simple" />
       <item itemvalue="Application.Main_OneConnector" />
       <item itemvalue="Application.EventServer" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ConvertBase64ToString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertBase64ToString" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.EventServer" />
         <item itemvalue="Application.Main_OneConnector" />
         <item itemvalue="Application.Main_Servlet_Simple" />
-        <item itemvalue="Application.Main_SimpleServlet" />
-        <item itemvalue="Application.Main_FileServer" />
       </list>
     </recent_temporary>
   </component>
@@ -975,32 +957,33 @@
       <workItem from="1530786134566" duration="3180000" />
       <workItem from="1530882216051" duration="615000" />
       <workItem from="1531116871002" duration="5105000" />
-      <workItem from="1531202034642" duration="11656000" />
+      <workItem from="1531202034642" duration="11704000" />
+      <workItem from="1531296863615" duration="13265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66667000" />
+    <option name="totallyTimeSpent" value="79980000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1882" y="144" width="3071" height="1032" extended-state="0" />
+    <frame x="-1924" y="125" width="1928" height="1088" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32932165" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50221485" side_tool="true" weight="0.3118162" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.21650055" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" x="-1909" y="195" width="1878" height="927" id="Run" order="2" type="WINDOWED" weight="0.3371134" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49778515" weight="0.3621444" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" x="-1768" y="208" width="1878" height="927" id="Run" order="2" visible="true" weight="0.31520644" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49778515" weight="0.36185566" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12777226" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19322917" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1015,8 +998,8 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="SciView" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="9" />
-      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3298969" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3298969" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1025,18 +1008,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0-sources.jar!/javax/websocket/Session.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0-sources.jar!/javax/websocket/OnMessage.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/java/util/concurrent/CountDownLatch.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/javax-websocket-client-impl/9.4.11.v20180605/javax-websocket-client-impl-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/websocket/jsr356/ClientContainer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/ClientMain.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientEndpoint/ClientSocket.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ServerEndpoint/TestSocket.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/SimplestServer/SimplestServer.java" />
@@ -1074,20 +1051,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_SimpleServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/Handler_Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="34" column="65" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/Handler_Hello.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605.jar!/org/eclipse/jetty/server/Server.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1095,48 +1060,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1144,43 +1073,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1215,27 +1111,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/nio/ch/Net.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -1246,42 +1121,100 @@
     <entry file="file://$PROJECT_DIR$/main_servlet_simple.bat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/EventServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="396">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="12" column="273" selection-start-line="12" selection-start-column="273" selection-end-line="12" selection-end-column="273" />
+        <state relative-caret-position="730">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          <folding>
+            <element signature="e#3011#3012#0" expanded="true" />
+            <element signature="e#3058#3059#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="40" column="59" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
