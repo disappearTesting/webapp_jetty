@@ -1,6 +1,207 @@
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090613.404.html
+
+###
+
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090517.404.html
+
+###
+
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage
+
+<> 2018-07-12T090459.404.html
+
+###
+
+GET https://testsite.local:8080/webapp/rest/loginPage
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage
+
+<> 2018-07-12T090328.404.html
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090305.404.html
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage/index.html
+
+###
+
+GET http://testsite.local:8080/rest/loginPage/index.html
+
+<> 2018-07-12T084021.404.html
+
+###
+
+GET http://testsite.local:8080/rest/loginPage/index.php
+
+<> 2018-07-11T115618.404.html
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=
+
+<> 2018-07-10T064219.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?vendor_id=615c74f05ca6e5ds
+
+<> 2018-07-10T062925.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?advertising_id=615c74605ca6e5be&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062804.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info==&advertising_id=615c74605ca6e5be&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062756.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=45464616161615&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062740.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=вва&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062728.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=""&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062720.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=null&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062704.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T062542.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T062533.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=&vendor_id=
+
+<> 2018-07-10T062523.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=615c74f05ca6e5be
+
+<> 2018-07-10T062329.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=6v5c74605ca6e5be&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T062310.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=d15c74605ca6e5be&vendor_id=n15c74605ca6e5be
+
+<> 2018-07-10T062242.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=115c74605ca6e5be&vendor_id=115c74605ca6e5be
+
+<> 2018-07-10T062111.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=v15c74605ca6e5be&vendor_id=v15c74605ca6e5be
+
+<> 2018-07-10T061949.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=115c74605ca6e5be&vendor_id=115c74605ca6e5be
+
+<> 2018-07-10T061711.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=
+
+<> 2018-07-10T061501.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T061405.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=&vendor_id=
+
+<> 2018-07-10T061352.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=
+
+<> 2018-07-10T061319.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T061257.200.json
+
+###
+
+GET https://mahjong-stage.smapps.net/gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=615c74605ca6e5be
+
+<> 2018-07-10T061122.200.json
+
+###
+
+GET http://gp/login?device_info=eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=&advertising_id=615c74605ca6e5be&vendor_id=615c74605ca6e5be
+
+###
+
+<<<<<<< HEAD
+POST http://localhost:8080/api/servlet/lists?body=asdasdasdasdasdasd
+
+<> 2018-07-09T023558.201.txt
+
+###
+
+=======
 POST http://localhost:8080/api/servlet/lists?body=asdasdasdasdasdasd
 
 <> 2018-07-09T084649.201.txt
 
 ###
 
+>>>>>>> ebeec64491ed76dba45cb38a9d00a518a8a776fb

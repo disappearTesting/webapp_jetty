@@ -1,9 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b56894e6-5222-402e-b71f-702f3df60f61" name="Default" comment="" />
+    <list default="true" id="ec6a03cf-dfdb-4326-99b9-5ae1a9deddaa" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-09T023558.201.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061122.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061257.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061319.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061352.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061405.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061501.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061711.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T061949.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062111.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062242.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062310.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062329.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062523.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062533.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062542.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062704.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062720.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062728.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062740.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062756.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062804.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T062925.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-10T064219.200.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-11T115618.404.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/payment_callback.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/bootstrap.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/jquery.contextMenu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/jquery.contextMenu.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/jquery.ui.position.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/hard-contextMenu/theme-fixes.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/images/img-fig1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/images/test.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/resize/assets/hsizegrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/resize/assets/vsizegrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/resize/assets/wingrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/resize/jquery-resizable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/resize/styleResize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/select-multiple/css/page_v2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/select-multiple/css/small_v2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/bootstrap.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/css.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/github.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/highlight.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/jquery.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/jquery.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/jquery_002.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/jquery_003.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/simple-contextMenu/theme-fixes.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/bootstrap-slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/bootstrap-slider.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/highlightjs-github-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/slider-example/modernizr.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/sort/jquery-1.12.4.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/sort/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/sort/jquery-ui.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/actionPage/sort/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/alertPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/css/bootstrap-datetimepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/css/bootstrap-datetimepicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings-white.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/datetime/jquery/jquery-1.8.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/bootstrap-datetimepicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/bootstrap-datetimepicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.az.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.bn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ee.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.hy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ka.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.nb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.no.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs-latin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.sk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.sl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.sw.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.ua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/_coverage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/coverage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/jquery-1.7.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/mock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/qunit-logging.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/qunit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/assets/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/run-qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/formats.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/inline.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/keyboard_navigation/2011.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/keyboard_navigation/2012.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/keyboard_navigation/all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/mouse_navigation/2011.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/mouse_navigation/2012.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/mouse_navigation/all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/suites/options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/tests.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/datetimePage/tests/tests.min.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/downloadFile_Success.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/fileToUpload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/folderToDownload/fileToDownload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/folderToUpload/developerLog-Р‘СѓС‚С‹Р»РѕС‡РєР° Wed May 16 2018 11-02-54 AM.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/folderToUpload/fileToDownload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/folderToUpload/fileToUpload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/uploadFile_HandleError.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/uploadFile_Success.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/filePage/uploadFile_Success.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/folderToCookiesFile/LightShot.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/folderToCookiesFile/LoginPage.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/logout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/register.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage/script_generate_pass.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/folderToCookiesFile/Login.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/logout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/register.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/loginPage_v.2/script_generate_pass.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/mainPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/mainPage/styleMain.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/create.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/delete.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/read.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/styleCreate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/styleDelete.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/styleIndex.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/styleRead.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/styleUpdate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/postPage/update.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/bootstrap-slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/bootstrap-slider.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/highlightjs-github-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/sliderPage/slider-example/modernizr.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/windowPage/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/windowPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest/windowPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/bootstrap.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/jquery.contextMenu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/jquery.contextMenu.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/jquery.ui.position.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/hard-contextMenu/theme-fixes.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/images/img-fig1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/images/test.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/resize/assets/hsizegrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/resize/assets/vsizegrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/resize/assets/wingrip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/resize/jquery-resizable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/resize/styleResize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/select-multiple/css/page_v2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/select-multiple/css/small_v2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/bootstrap.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/css.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/github.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/highlight.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/jquery.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/jquery.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/jquery_002.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/jquery_003.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/simple-contextMenu/theme-fixes.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/bootstrap-slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/bootstrap-slider.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/highlightjs-github-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/slider-example/modernizr.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/sort/jquery-1.12.4.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/sort/jquery-ui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/sort/jquery-ui.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/actionPage/sort/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/alertPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/css/bootstrap-datetimepicker.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/css/bootstrap-datetimepicker.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings-white.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/datetime/jquery/jquery-1.8.3.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/bootstrap-datetimepicker.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/bootstrap-datetimepicker.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.az.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.bn.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ee.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.hy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ka.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.nb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.no.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs-latin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.sk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.sl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.sw.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.ua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/_coverage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/coverage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/jquery-1.7.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/mock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/qunit-logging.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/qunit.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/assets/utils.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/run-qunit.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/component.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/events.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/formats.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/inline.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/keyboard_navigation/2011.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/keyboard_navigation/2012.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/keyboard_navigation/all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/mouse_navigation/2011.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/mouse_navigation/2012.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/mouse_navigation/all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/suites/options.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/tests.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/datetimePage/tests/tests.min.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/downloadFile_Success.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/fileToUpload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/folderToDownload/fileToDownload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/folderToUpload/developerLog-Р‘СѓС‚С‹Р»РѕС‡РєР° Wed May 16 2018 11-02-54 AM.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/folderToUpload/fileToDownload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/folderToUpload/fileToUpload.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/uploadFile_HandleError.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/uploadFile_Success.au3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/filePage/uploadFile_Success.exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/folderToCookiesFile/LightShot.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/folderToCookiesFile/LoginPage.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/logout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/register.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage/script_generate_pass.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/folderToCookiesFile/Login.Cookies.data" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/login.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/logout.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/register.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/loginPage_v.2/script_generate_pass.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/mainPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/mainPage/styleMain.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/config.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/create.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/delete.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/read.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/styleCreate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/styleDelete.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/styleIndex.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/styleRead.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/styleUpdate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/postPage/update.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/bootstrap-slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/bootstrap-slider.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/highlight.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/highlightjs-github-theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/jquery.min.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/sliderPage/slider-example/modernizr.js.Без названия" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/windowPage/home.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/windowPage/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/rest/windowPage/main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_Hello.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_FileServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_OneConnector.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile$SimpleServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/ListNoFoundException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/security/DigestHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListExistException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListNoFoundException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/service/ListStorageService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/ListServlet.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/ConvertBase64ToString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Servlet_Simple.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/main_servlet_simple.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_FileServer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_OneConnector.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile$SimpleServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_DownloadFile.class" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientMain/Main_Servlet_Simple.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Connectors/Connector_Simple.class" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Connector_Simple.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_GetResource.class" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/examples/Handler_GetResource.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Handlers/Handler_Hello.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/ListNoFoundException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/ListServlet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/Servlet_Simple.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/security/DigestHelper.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListExistException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListNoFoundException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/service/ListStorageService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/webapp_jetty.iml" afterPath="$PROJECT_DIR$/webapp_jetty.iml" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,89 +428,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Servlet_Simple.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Handler_Hello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_Servlet_DownloadFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Connector_Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Connector_Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_FileServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_OneConnector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main_Servlet_Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="440">
+              <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,31 +442,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListNoFoundException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/ListNoFoundException.java">
+      <file leaf-file-name="main_servlet_simple.http" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/ListServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Handler_GetResource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_GetResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="842">
+              <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -145,18 +466,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/ListNoFoundException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/ListServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Connector_Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" />
       </list>
     </option>
   </component>
@@ -166,27 +477,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebApplication" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebApplication" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
-    <option name="width" value="1799" />
-    <option name="height" value="1080" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -203,9 +496,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,17 +506,6 @@
             <path>
               <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
               <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,30 +513,6 @@
               <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jetty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_servlet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
@@ -269,46 +524,60 @@
             <path>
               <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
               <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
-              <item name="static_resource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="org.eclipse.jetty" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hookie\IdeaProjects\webapp_jetty\src\main\java\org\eclipse\jetty\simple_servlet" />
-    </key>
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
         <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/api/servlet/lists" />
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/src/main/webapp/rest/loginPage/index.html" />
           <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="body" />
-                <option name="value" value="asdasdasdasdasdasd" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/src/main/webapp/rest/loginPage/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/webapp/rest/loginPage/" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/webapp/rest/loginPage/index.html" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://testsite.local:8080/rest/loginPage/index.html" />
+          <option name="urlPath" value="" />
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
@@ -335,14 +604,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Main_Servlet_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.eclipse.jetty.simple_servlet.servlet.*" />
+          <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.simple_servlet.Main_Servlet_Simple" />
+      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -430,7 +699,7 @@
     </configuration>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main_Servlet_Simple" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -442,51 +711,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b56894e6-5222-402e-b71f-702f3df60f61" name="Default" comment="" />
-      <created>1531155723459</created>
+      <changelist id="ec6a03cf-dfdb-4326-99b9-5ae1a9deddaa" name="Default" comment="" />
+      <created>1531414174080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531155723459</updated>
-      <workItem from="1531155724637" duration="663000" />
-      <workItem from="1531156417910" duration="2788000" />
-      <workItem from="1531160185771" duration="2488000" />
+      <updated>1531414174080</updated>
+      <workItem from="1531414175229" duration="5655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5939000" />
+    <option name="totallyTimeSpent" value="5655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="84" y="0" width="1799" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299028" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2555746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299028" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="75" y="105" width="1749" height="872" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24985707" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,248 +764,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/service/ListStorageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/server/handler/ResourceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="517" column="16" lean-forward="false" selection-start-line="517" selection-start-column="16" selection-end-line="517" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_servlet_simple.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="true" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/ListNoFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="842">
+          <caret line="55" column="72" lean-forward="false" selection-start-line="55" selection-start-column="72" selection-end-line="55" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/ListServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_GetResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_Servlet_DownloadFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Connector_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="440">
+          <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>webapp_jetty</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: javax.annotation:javax.annotation-api:1.2</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

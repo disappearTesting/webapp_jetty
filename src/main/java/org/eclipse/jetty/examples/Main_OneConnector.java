@@ -5,7 +5,7 @@ import org.eclipse.jetty.server.ServerConnector;
 import org.eclipse.jetty.server.handler.ResourceHandler;
 
 public class Main_OneConnector {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Throwable {
 
         // The Server
         Server server = new Server();
@@ -21,5 +21,8 @@ public class Main_OneConnector {
 
         // Set a Handler
         server.setHandler(new ResourceHandler());
+
+        server.start();
+        server.join();
     }
 }

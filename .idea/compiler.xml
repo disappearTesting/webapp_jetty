@@ -6,13 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JettyWebSocket_Project_Test" />
         <module name="webapp_jetty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JettyWebSocket_Project_Test" target="1.5" />
-      <module name="webapp_jetty" target="1.7" />
+      <module name="webapp_jetty" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
