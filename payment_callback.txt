@@ -1,23 +1,17 @@
 {
-	"original-purchase-date-pst" = "2018-03-14 00:25:49 America/Los_Angeles";
-	"is-in-intro-offer-period" = "false";
-	"purchase-date-ms" = "1531314517989";
-	"unique-identifier" = "dbfcb4dd78b346b3839f8e3321994467afaf65ed";
-	"original-transaction-id" = "1000000382714255";
-	"expires-date" = "1531314817989";
-	"transaction-id" = "1000000416551983";
-	"quantity" = "1";
-	"web-order-line-item-id" = "1000000039419203";
-	"original-purchase-date-ms" = "1521012349000";
-	"unique-vendor-identifier" = "283E378E-58D1-4672-9C8E-B64EFC9BEFF1";
-	"expires-date-formatted-pst" = "2018-07-11 06:13:37 America/Los_Angeles";
-	"item-id" = "715396411";
-	"expires-date-formatted" = "2018-07-11 13:13:37 Etc/GMT";
-	"original-purchase-date" = "2018-03-14 07:25:49 Etc/GMT";
-	"product-id" = "vip.1m";
-	"purchase-date" = "2018-07-11 13:08:37 Etc/GMT";
-	"is-trial-period" = "false";
-	"purchase-date-pst" = "2018-07-11 06:08:37 America/Los_Angeles";
-	"bid" = "org.skanword";
-	"bvrs" = "58";
+  "85ef0ea64b7685e8880e514e08c8c00a" : {
+    "uus" : {
+      "lf" : {
+        "background" : 1
+      },
+      "tm" : 1
+    },
+    "_uot" : 1533970283
+  },
+  "8754a7da367a1e09c0070ba9106ed788" : {
+    "uus" : {
+      "tm" : 22
+    },
+    "_uot" : 1533970305
+  }
 }

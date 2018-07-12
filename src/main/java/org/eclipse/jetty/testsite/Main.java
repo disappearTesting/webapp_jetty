@@ -18,21 +18,23 @@ public class Main {
         http_testsite.setIdleTimeout(15000);
 
         ResourceHandler rs1 = new ResourceHandler();
-        rs1.setDirectoriesListed(true);
-        rs1.setWelcomeFiles(new String[]{"index.html"});
-        rs1.setResourceBase("rest/loginPage/");
 
-        HandlerList handlers = new HandlerList();
-        handlers.setHandlers(new Handler[] {rs1, new DefaultHandler()});
+        ContextHandler ch1 = new ContextHandler();
+        ch1.setContextPath("/src/main/java/org/eclipse/jetty/webapp/rest/loginPage");
+        //ch1.setResourceBase(".");
+        ch1.setHandler(rs1);
 
-//        ServletContextHandler contextHandler = new ServletContextHandler(ServletContextHandler.SESSIONS);
-//        contextHandler.setContextPath("/");
-//        contextHandler.addServlet(new ServletHolder(new Servlet_Simple()), "/rest/loginPage");
+//        ResourceHandler rs2 = new ResourceHandler();
+//        ContextHandler ch2 = new ContextHandler();
+//        ch2.setContextPath("/");
+//        ch2.setHandler(rs2);
+
+        ContextHandlerCollection contexts = new ContextHandlerCollection();
+        contexts.setHandlers(new Handler[] {ch1});
 
         server.setConnectors(new Connector[]{http_testsite});
-        server.setHandler(handlers);
+        server.setHandler(contexts);
         server.start();
-        System.out.println(server.dump());
         server.join();
     }
 }
