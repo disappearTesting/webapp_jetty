@@ -10,10 +10,7 @@ import java.io.IOException;
 
 public class Servlet_Simple extends HttpServlet {
 
-    private ListStorageService listStorageService;
-
-    public Servlet_Simple(ListStorageService service) {
-        this.listStorageService = service;
+    public Servlet_Simple() {
     }
 
     @Override

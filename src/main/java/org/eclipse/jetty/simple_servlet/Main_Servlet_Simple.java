@@ -20,7 +20,7 @@ public class Main_Servlet_Simple {
 
         ServletContextHandler contextHandler = new ServletContextHandler(ServletContextHandler.SESSIONS);
 
-        contextHandler.addServlet(new ServletHolder(new Servlet_Simple(storageService)), "/api/servlet/simple");
+        //contextHandler.addServlet(new ServletHolder(new Servlet_Simple(storageService)), "/api/servlet/simple");
         contextHandler.addServlet(new ServletHolder(new ListServlet(storageService)), "/api/servlet/lists");
 
         ResourceHandler resourceHandler = new ResourceHandler();
