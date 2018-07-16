@@ -2,6 +2,9 @@ package org.eclipse.jetty.testsite;
 
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
+import org.eclipse.jetty.servlet.ServletContextHandler;
+import org.eclipse.jetty.servlet.ServletHolder;
+import org.eclipse.jetty.testsite.servlets.Servlet_WindowPage;
 import org.eclipse.jetty.util.resource.Resource;
 
 public class Main {
@@ -18,19 +21,17 @@ public class Main {
         http_testsite.setPort(8080);
         http_testsite.setIdleTimeout(15000);
 
-        ResourceHandler resHandler = new ResourceHandler();
-        resHandler.setResourceBase("../webapp_jetty/src/main/webapp/rest/loginPage");
-        ContextHandler ctx = new ContextHandler("/rest/loginPage"); /* the server uri path */
-        ctx.setHandler(resHandler);
-        server.setHandler(ctx);
+//        ResourceHandler resHandler = new ResourceHandler();
+//        resHandler.setResourceBase("../webapp_jetty/src/main/webapp/rest/windowPage");
+//        ContextHandler ctx = new ContextHandler("/rest/windowPage"); /* the server uri path */
+//        ctx.setHandler(resHandler);
+//        server.setHandler(ctx);
 
-//        ResourceHandler rs2 = new ResourceHandler();
-//        ContextHandler ch2 = new ContextHandler();
-//        ch2.setContextPath("/");
-//        ch2.setHandler(rs2);
+        ServletContextHandler sch_WindowPage = new ServletContextHandler(ServletContextHandler.SESSIONS);
+        sch_WindowPage.addServlet(Servlet_WindowPage.class, "/windowPage");
 
         ContextHandlerCollection contexts = new ContextHandlerCollection();
-        contexts.setHandlers(new Handler[] {ctx});
+        contexts.setHandlers(new Handler[] {sch_WindowPage});
 
         server.setConnectors(new Connector[]{http_testsite});
         server.setHandler(contexts);

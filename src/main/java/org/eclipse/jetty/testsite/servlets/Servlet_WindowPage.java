@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Servlet_LoginPage extends HttpServlet {
+public class Servlet_WindowPage extends HttpServlet {
 
     @Override
     public void init() throws ServletException {
@@ -17,14 +17,12 @@ public class Servlet_LoginPage extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        Map<String, Object> pageVariables = new HashMap<>();
-
-        response.getWriter().println("");
+        response.setContentType("text/php");
     }
 
     @Override
-    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        super.doPost(req, resp);
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        super.doPost(request, response);
     }
 
     @Override

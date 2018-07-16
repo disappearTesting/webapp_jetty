@@ -6,12 +6,12 @@
 
     <display-name>webapp_testsite</display-name>
     <servlet>
-        <servlet-name>Servlet_PoginPage</servlet-name>
-        <servlet-class>org.eclipse.jetty.testsite.servlets.Servlet_LoginPage</servlet-class>
+        <servlet-name>Servlet_WindowPage</servlet-name>
+        <servlet-class>org.eclipse.jetty.testsite.servlets.Servlet_WindowPage</servlet-class>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>Servlet_PoginPage</servlet-name>
-        <url-pattern>/webapp/rest/loginPage/login.php</url-pattern>
+        <servlet-name>Servlet_WindowPage</servlet-name>
+        <url-pattern>/webapp/rest/windowPage/index.php</url-pattern>
     </servlet-mapping>
 </web-app>
