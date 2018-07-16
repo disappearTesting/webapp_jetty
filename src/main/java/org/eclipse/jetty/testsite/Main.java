@@ -19,8 +19,7 @@ public class Main {
         http_testsite.setIdleTimeout(15000);
 
         ResourceHandler resHandler = new ResourceHandler();
-        resHandler.setResourceBase("../webapp_jetty/src/main/webapp");
-        // resHandler.setResourceBase("rest/loginPage");
+        resHandler.setResourceBase("../webapp_jetty/src/main/webapp/rest/loginPage");
         ContextHandler ctx = new ContextHandler("/rest/loginPage"); /* the server uri path */
         ctx.setHandler(resHandler);
         server.setHandler(ctx);
