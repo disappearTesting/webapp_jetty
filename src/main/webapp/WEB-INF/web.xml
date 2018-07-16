@@ -4,5 +4,14 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-    <display-name>webapp_jetty</display-name>
+    <display-name>webapp_testsite</display-name>
+    <servlet>
+        <servlet-name>MyHelloWorldServlet</servlet-name>
+        <servlet-class>Servlet_LoginPage</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>MyHelloWorldServlet</servlet-name>
+        <url-pattern>/index.html</url-pattern>
+    </servlet-mapping>
 </web-app>

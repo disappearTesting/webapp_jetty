@@ -2,6 +2,7 @@ package org.eclipse.jetty.testsite;
 
 import org.eclipse.jetty.server.*;
 import org.eclipse.jetty.server.handler.*;
+import org.eclipse.jetty.util.resource.Resource;
 
 public class Main {
     public static void main(String[] args) throws Throwable {
@@ -17,12 +18,12 @@ public class Main {
         http_testsite.setPort(8080);
         http_testsite.setIdleTimeout(15000);
 
-        ResourceHandler rs1 = new ResourceHandler();
-
-        ContextHandler ch1 = new ContextHandler();
-        ch1.setContextPath("/src/main/java/org/eclipse/jetty/webapp/rest/loginPage");
-        //ch1.setResourceBase(".");
-        ch1.setHandler(rs1);
+        ResourceHandler resHandler = new ResourceHandler();
+        resHandler.setResourceBase("../webapp_jetty/src/main/java/webapp");
+        // resHandler.setResourceBase("rest/loginPage");
+        ContextHandler ctx = new ContextHandler("/rest/loginPage"); /* the server uri path */
+        ctx.setHandler(resHandler);
+        server.setHandler(ctx);
 
 //        ResourceHandler rs2 = new ResourceHandler();
 //        ContextHandler ch2 = new ContextHandler();
@@ -30,7 +31,7 @@ public class Main {
 //        ch2.setHandler(rs2);
 
         ContextHandlerCollection contexts = new ContextHandlerCollection();
-        contexts.setHandlers(new Handler[] {ch1});
+        contexts.setHandlers(new Handler[] {ctx});
 
         server.setConnectors(new Connector[]{http_testsite});
         server.setHandler(contexts);

@@ -1,21 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e0f676-a8f4-4f45-baf3-ef5ab686fe28" name="Default" comment="">
+    <list default="true" id="9293db87-72c2-4c5b-8774-7ab572660be8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T084021.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T090305.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T090328.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T090459.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T090517.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2018-07-12T090613.404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/loginPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/bootstrap.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/highlight.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/jquery.contextMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/jquery.contextMenu.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/jquery.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/jquery.ui.position.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/hard-contextMenu/theme-fixes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/images/img-fig1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/images/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/resize/assets/hsizegrip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/resize/assets/vsizegrip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/resize/assets/wingrip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/resize/jquery-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/resize/styleResize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/select-multiple/css/page_v2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/select-multiple/css/small_v2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/bootstrap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/css.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/github.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/highlight.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/jquery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/jquery.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/jquery_002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/jquery_003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/simple-contextMenu/theme-fixes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/bootstrap-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/bootstrap-slider.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/highlight.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/highlightjs-github-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/jquery.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/slider-example/modernizr.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/sort/jquery-1.12.4.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/sort/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/sort/jquery-ui.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/actionPage/sort/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/alertPage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/css/bootstrap-datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/datetime/jquery/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.no.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs-latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.rs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.ua.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/js/locales/bootstrap-datetimepicker.zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/_coverage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/coverage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/mock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/qunit-logging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/qunit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/assets/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/run-qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/formats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/inline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/keyboard_navigation/2011.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/keyboard_navigation/2012.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/keyboard_navigation/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/mouse_navigation/2011.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/mouse_navigation/2012.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/mouse_navigation/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/suites/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/datetimePage/tests/tests.min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/downloadFile_Success.au3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/fileToUpload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/folderToDownload/fileToDownload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/folderToUpload/developerLog-Р‘СѓС‚С‹Р»РѕС‡РєР° Wed May 16 2018 11-02-54 AM.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/folderToUpload/fileToDownload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/folderToUpload/fileToUpload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/uploadFile_HandleError.au3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/uploadFile_Success.au3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/filePage/uploadFile_Success.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/folderToCookiesFile/LightShot.Cookies.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/folderToCookiesFile/LoginPage.Cookies.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage/script_generate_pass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/folderToCookiesFile/Login.Cookies.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/loginPage_v.2/script_generate_pass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/mainPage/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/mainPage/styleMain.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/styleCreate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/styleDelete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/styleIndex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/styleRead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/styleUpdate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/postPage/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/bootstrap-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/bootstrap-slider.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/highlight.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/highlightjs-github-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/jquery.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/sliderPage/slider-example/modernizr.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/windowPage/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/windowPage/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/rest/windowPage/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment_callback.txt" beforeDir="false" afterPath="$PROJECT_DIR$/payment_callback.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/ConvertBase64ToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/ConvertBase64ToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Handler_Simple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/ListNoFoundException.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/eclipse/jetty/testsite/Main.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,38 +197,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Servlet_Simple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertBase64ToString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="jetty-web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jetty-web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Servlet_LoginPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/servlets/Servlet_LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="378">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,9 +236,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Tag Library Descriptor" />
-        <option value="HTTP Request" />
         <option value="Class" />
       </list>
     </option>
@@ -79,55 +246,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/EchoEndpoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MessageEncoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MessageDecoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Message.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ChatEndpoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ServerEndpoint/MessageEncoder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ServerEndpoint/TestSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientEndpoint/TestClientSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/ClientMain.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientEndpoint/ClientSocket.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SimplestServer/SimplestServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Handlers/HelloHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SimplestServer/FileServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/FileServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/OneHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Handlers/ResourceHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Handlers/GetResourceHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Connectors/SimpleConnector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.fxml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.tld" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jetty-web.xml.tld" />
-        <option value="$PROJECT_DIR$/src/main/webapp/jetty-web" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_SimpleServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Handlers/main_servlet-simple.http" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/EventServer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/servlets/Servlet_LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java" />
       </list>
     </option>
   </component>
@@ -137,45 +258,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebApplication" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebApplication" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="WebApplication" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1894" />
-    <option name="y" value="203" />
-    <option name="width" value="1928" />
-    <option name="height" value="1088" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,443 +313,38 @@
               <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jetty" type="462c0819:PsiDirectoryNode" />
+              <item name="testsite" type="462c0819:PsiDirectoryNode" />
+              <item name="servlets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webapp_jetty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webapp_jetty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testsite" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.3625" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-  </component>
-  <component name="RestClientSettings">
-    <option name="REQUEST_HISTORY">
-      <list>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://testsite.local:8080/rest/loginPage/index.php" />
-          <option name="urlPath" value="" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5ds" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="45464616161615" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="вва" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="&quot;&quot;" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="null" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74f05ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="6v5c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="d15c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="n15c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="115c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="115c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="v15c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="v15c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="https://mahjong-stage.smapps.net/gp/login" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="device_info" />
-                <option name="value" value="eyJsYW5ndWFnZSI6ImVuIiwiZHBpIjo0ODAsIm9zIjoiYW5kcm9pZCA3LjAiLCJtb2RlbCI6InNhbXN1bmcgU00tRzkzMFUiLCJ3aWR0aCI6MTkyMCwiYXBwX3ZlcnNpb24iOiIxLjAuNiIsImhlaWdodCI6MTA4MH0=" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="advertising_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="vendor_id" />
-                <option name="value" value="615c74605ca6e5be" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-      </list>
-    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -673,32 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConvertBase64ToString">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ConvertBase64ToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.ConvertBase64ToString" />
-      <module name="webapp_jetty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="EventServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.EventServer" />
-      <module name="webapp_jetty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.testsite.Main" />
       <module name="webapp_jetty" />
@@ -706,28 +366,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.eclipse.jetty.testsite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main_OneConnector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.examples.Main_OneConnector" />
-      <module name="webapp_jetty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.eclipse.jetty.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main_Servlet_Simple (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.eclipse.jetty.simple_servlet.Main_Servlet_Simple" />
-      <module name="webapp_jetty" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.eclipse.jetty.simple_servlet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -751,38 +389,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <file path="$PROJECT_DIR$">
-          <settings DEPLOYMENT_METHOD="contexts">
-            <option name="contextRoot" value="/test" />
-            <option name="defaultContextRoot" value="false" />
-          </settings>
-        </file>
-      </deployment>
-      <server-settings>
-        <data>
-          <option name="configFiles">
-            <list>
-              <JettyConfigFile>
-                <option name="active" value="true" />
-                <option name="path" value="modules\jmx.mod" />
-              </JettyConfigFile>
-            </list>
-          </option>
-          <option name="myConfigFiles">
-            <list>
-              <JettyConfigFile>
-                <option name="active" value="true" />
-                <option name="path" value="modules\jmx.mod" />
-              </JettyConfigFile>
-            </list>
-          </option>
-        </data>
-      </server-settings>
-      <predefined_log_file id="Jetty" enabled="true" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -805,82 +411,9 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Twisted Trial">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main_OneConnector" />
-      <item itemvalue="Application.EventServer" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ConvertBase64ToString" />
-      <item itemvalue="Application.Main_Servlet_Simple (1)" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertBase64ToString" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main_Servlet_Simple (1)" />
-        <item itemvalue="Application.EventServer" />
-        <item itemvalue="Application.Main_OneConnector" />
       </list>
     </recent_temporary>
   </component>
@@ -889,77 +422,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e0e0f676-a8f4-4f45-baf3-ef5ab686fe28" name="Default" comment="" />
-      <created>1530280049499</created>
+      <changelist id="9293db87-72c2-4c5b-8774-7ab572660be8" name="Default" comment="" />
+      <created>1531722760047</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1530280049499</updated>
-      <workItem from="1530280052861" duration="129000" />
-      <workItem from="1530280230170" duration="1587000" />
-      <workItem from="1530283171801" duration="86000" />
-      <workItem from="1530295301746" duration="3619000" />
-      <workItem from="1530356135574" duration="4067000" />
-      <workItem from="1530360692712" duration="3481000" />
-      <workItem from="1530364192097" duration="2639000" />
-      <workItem from="1530366859481" duration="1124000" />
-      <workItem from="1530368014005" duration="1414000" />
-      <workItem from="1530369478210" duration="494000" />
-      <workItem from="1530379358113" duration="344000" />
-      <workItem from="1530379720824" duration="4447000" />
-      <workItem from="1530456037374" duration="14849000" />
-      <workItem from="1530476378050" duration="240000" />
-      <workItem from="1530476634874" duration="201000" />
-      <workItem from="1530515425756" duration="292000" />
-      <workItem from="1530533035659" duration="1201000" />
-      <workItem from="1530614057014" duration="4722000" />
-      <workItem from="1530711197495" duration="1175000" />
-      <workItem from="1530786134566" duration="3180000" />
-      <workItem from="1530882216051" duration="615000" />
-      <workItem from="1531116871002" duration="5105000" />
-      <workItem from="1531202034642" duration="11704000" />
-      <workItem from="1531296863615" duration="13333000" />
-      <workItem from="1531375708534" duration="18018000" />
-      <workItem from="1531410681970" duration="34000" />
+      <updated>1531722760047</updated>
+      <workItem from="1531722768223" duration="4095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98100000" />
+    <option name="totallyTimeSpent" value="4095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1924" y="125" width="1928" height="1088" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50221485" side_tool="true" weight="0.3118162" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.21650055" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" x="17" y="41" width="1878" height="927" id="Run" order="2" type="WINDOWED" weight="0.31443298" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49778515" visible="true" weight="0.36185566" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32886598" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32886598" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="SciView" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3298969" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -968,215 +474,34 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605-sources.jar!/org/eclipse/jetty/server/ServerConnector.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/SimpleConnector.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml.tld" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.fxml" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.tld" />
-    <entry file="file://$PROJECT_DIR$/webapp_jetty.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/GetResourceHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/HelloHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jetty-web" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.4.11.v20180605/jetty-servlet-9.4.11.v20180605.jar!/org/eclipse/jetty/servlet/ServletHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17205">
-          <caret line="1053" column="51" selection-start-line="1053" selection-start-column="51" selection-end-line="1053" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jetty-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_SimpleServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/Handler_Hello.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_DownloadFile.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.11.v20180605/jetty-server-9.4.11.v20180605.jar!/org/eclipse/jetty/server/Server.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListNoFoundException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListExistException.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_OneConnector.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Connectors/Connector_Simple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_FileServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/security/DigestHelper.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ListServlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/service/ListStorageService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientMain/Main_Servlet_Simple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Handlers/main_servlet_simple.http" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/servlets/Servlet_LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Connector_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/jre/lib/rt.jar!/sun/nio/ch/Net.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="379" selection-start-line="379" selection-end-line="379" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_servlet_simple.bat" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_OneConnector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        <state relative-caret-position="378">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/main_servlet_simple.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.php" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_LoginPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Handler_Simple.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Main_FileServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/examples/Handler_GetResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.4.11.v20180605/jetty-servlet-9.4.11.v20180605.jar!/org/eclipse/jetty/servlet/ServletContextHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/servlet/ListServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/service/ListStorageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/simple_servlet/Main_Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="396">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/Servlet_Simple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jetty-web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/jetty/testsite/ConvertBase64ToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

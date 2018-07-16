@@ -1,3 +1,51 @@
+GET http://org.smapps.bottle.libraries.MediaTabLib
+
+###
+
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090613.404.html
+
+###
+
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090517.404.html
+
+###
+
+GET http://testsite.local:8080/src/main/webapp/rest/loginPage
+
+<> 2018-07-12T090459.404.html
+
+###
+
+GET https://testsite.local:8080/webapp/rest/loginPage
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage
+
+<> 2018-07-12T090328.404.html
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage/index.html
+
+<> 2018-07-12T090305.404.html
+
+###
+
+GET http://testsite.local:8080/webapp/rest/loginPage/index.html
+
+###
+
+GET http://testsite.local:8080/rest/loginPage/index.html
+
+<> 2018-07-12T084021.404.html
+
+###
+
 GET http://testsite.local:8080/rest/loginPage/index.php
 
 <> 2018-07-11T115618.404.html
